@@ -28,7 +28,7 @@ This is for fine-tuning COSEE models.
 
 #### eval_signal.sh
 
-This is for evaluating fine-tuned COSEE models, given a number of different early exit thresholds.
+This is for evaluating fine-tuned COSEE models, given a number of different early exiting thresholds.
 
 
 
